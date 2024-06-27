@@ -1,0 +1,6 @@
+# virtuial env.
+.venv
+
+# compressed files
+*.tar.gz
+*.zip
