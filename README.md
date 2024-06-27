@@ -7,7 +7,7 @@ The most common reason for the networks to overfit is the small size of training
 Some popular image augmentation techniques for creating more images include **changing their orientation, flipping, translation, changing the contrast, zooming in and zooming out**, and others. This process drastically increases the number of training samples, due to which the model is not able to overfit the dataset. With the aid of this process, multiple new images can be created using the limited number of available samples. Hence, data augmentation helps the neural network models to generalize well and increase the testing accuracy significantly. 
 
 <div align="center">
-<img src="./assets/data_augmentation.png" width="480"><br>
+<img src="./assets/data_augmentation.jpeg" width="300"><br>
 Source: Google Developers
 </div>
 
